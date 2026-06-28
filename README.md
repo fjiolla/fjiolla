@@ -5,9 +5,7 @@ I'm a CS undergrad at Nirma University who likes turning rough ideas into things
 people can actually use — full stack apps, multi-agent AI systems, and the odd
 quantum communication experiment.
 
-- 🛡️ Top 106 worldwide · Google Solution Challenge 2026
-- 🏆 1st place · Aetrix Hackathon 2026
-- 🌐 More at **[fjiolla.vercel.app](https://fjiolla.vercel.app)**
+- 🌐 Find me at **[fjiolla.vercel.app](https://fjiolla.vercel.app)**
 
 <br/>
 
